@@ -7,4 +7,3 @@ punctuation-remove==0.0.5
 flask
 Flask
 sendgrid
-urllib.error
